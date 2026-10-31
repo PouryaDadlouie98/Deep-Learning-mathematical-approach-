@@ -1,0 +1,3 @@
+# Section 01 is pure Python; these are needed from section 02 onward.
+numpy
+matplotlib

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Data & model artifacts (keep the repo small)
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+runs/
+mlruns/
+wandb/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
